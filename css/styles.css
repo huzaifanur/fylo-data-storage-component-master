@@ -132,6 +132,9 @@ main {
     align-items: center;
     justify-content: center;
   }
+.logo-section {
+  width: 350px;
+}
   .storage-details {
     width: clamp(323px, 540px, 541px);
   }
