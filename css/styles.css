@@ -132,11 +132,13 @@ main {
     align-items: center;
     justify-content: center;
   }
-.logo-section {
-  width: 350px;
-}
+  .logo-section {
+    width: 350px;
+  }
   .storage-details {
     width: clamp(323px, 540px, 541px);
+    height: 160px;
+    align-self: flex-end;
   }
   .container {
     flex-direction: row;
